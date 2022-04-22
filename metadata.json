@@ -1,0 +1,6 @@
+{
+    "uuid": "loopback-toggler@cinnamon.org",
+    "name": "Loopback Toggler",
+    "description": "Click on the applet to Toggle the microphone Loopback",
+    "icon": "audio-loop-on"
+}
